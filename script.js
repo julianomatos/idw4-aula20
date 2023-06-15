@@ -18,7 +18,7 @@ function saudacao(){
 }
 
 function mouseCima(){
-    alert('O mouse está aqui!')
+    alert('O mouse aqui!')
 }
 
 function mouseFora(){
